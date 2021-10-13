@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 704A-6C80
+
+ Directory of C:\Users\tpodili\practicegit
+
+13-10-2021  13:54    <DIR>          .
+13-10-2021  13:54    <DIR>          ..
+13-10-2021  13:05                 0 demo.txt
+13-10-2021  13:54                 0 test.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  198,471,184,384 bytes free
